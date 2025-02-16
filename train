@@ -1,0 +1,1 @@
+yolo detect classify train model=yolov8n-cls.pt data="datasets/data.yaml" epochs=20

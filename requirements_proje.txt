@@ -1,0 +1,5 @@
+# Python >= 3.7 önerilmektedir
+
+ultralytics
+opencv-python
+numpy

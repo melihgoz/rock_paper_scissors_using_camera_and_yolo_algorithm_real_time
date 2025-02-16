@@ -1,0 +1,11 @@
+# Windows/MacOS virtual environment creation
+python3 -m venv env
+
+# Windows override code
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+# Windows virtual environment activation
+.\env\Scripts\activate
+
+# MacOS virtual environment activation
+source env/bin/activate
